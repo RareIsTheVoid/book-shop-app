@@ -1,5 +1,5 @@
 # book-shop-app
 
-Simple Tkinter app for managing an auto shop.
+Simple Tkinter app for managing a book shop's database.
 
 Technologies used: Python, Tkinter, SQLite
